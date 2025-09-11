@@ -335,7 +335,12 @@ const Privacy = () => (
           We do not share your data with third parties except when required for service operation, such as through hosting providers.
         </p>
 
-        <h3 className="text-xl font-semibold">5. User Rights</h3>
+        <h3 className="text-xl font-semibold">5. Dev Random Check</h3>
+        <p className="text-gray-600">
+          Developer may random join your server to check what you follow.
+        </p>
+
+        <h3 className="text-xl font-semibold">6. User Rights</h3>
         <p className="text-gray-600">
           You have the right to request access to your data, request updates to your data, or request deletion of your data. To do so, please contact us at <a href="mailto:support@service.nephele.in.th" className="text-blue-500 hover:underline">support@service.nephele.in.th</a>.
         </p>
