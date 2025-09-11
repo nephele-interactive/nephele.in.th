@@ -345,7 +345,7 @@ const Privacy = () => (
           You have the right to request access to your data, request updates to your data, or request deletion of your data. To do so, please contact us at <a href="mailto:support@service.nephele.in.th" className="text-blue-500 hover:underline">support@service.nephele.in.th</a>.
         </p>
 
-        <h3 className="text-xl font-semibold">6. Contact Information</h3>
+        <h3 className="text-xl font-semibold">7. Contact Information</h3>
         <p className="text-gray-600">
           If you have any questions or concerns about your privacy, please contact us at <a href="mailto:support@service.nephele.in.th" className="text-blue-500 hover:underline">support@service.nephele.in.th</a>.
         </p>
