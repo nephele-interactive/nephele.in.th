@@ -67,7 +67,7 @@ const LegacyUrlHandler = () => {
 const Website = () => {
   return (
     <Router>
-      <div className="min-h-screen bg-gradient-to-b from-blue-100 to-pink-100">
+      <div className="min-h-screen bg-gradient-to-b from-blue-100 to-pink-100 filter grayscale">
         <LegacyUrlHandler />
         <Nav />
         
