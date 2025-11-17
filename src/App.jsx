@@ -310,6 +310,7 @@ const Privacy = () => (
           We collect the following types of data:
         </p>
         <ul className="list-disc pl-6 text-gray-600">
+          <li>Email</li>
           <li>Discord user ID</li>
           <li>Commands issued to Nephele</li>
           <li>Notification preferences (e.g., Twitter or Bluesky notifications)</li>
